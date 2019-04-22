@@ -16,7 +16,7 @@ import {WidgetGoogleTrends} from 'widget-google-trends';
 <WidgetGoogleTrends word="Bitcoin" />
 ```
 
-## DEMO
+## Demo
 https://codesandbox.io/s/6v09mly7w
 
 
