@@ -16,6 +16,10 @@ import {WidgetGoogleTrends} from 'widget-google-trends';
 <WidgetGoogleTrends word="Bitcoin" />
 ```
 
+## DEMO
+https://codesandbox.io/s/6v09mly7w
+
+
 ## License
 
 MIT
