@@ -27,7 +27,7 @@ export default class WidgetGoogleTrends extends React.Component {
     let _ = this;
     let script = document.createElement("script");
     script.src =
-      "https://ssl.gstatic.com/trends_nrtr/1243_RC12/embed_loader.js";
+      "https://ssl.gstatic.com/trends_nrtr/2213_RC01/embed_loader.js";
     script.async = true;
 
     ReactDOM.findDOMNode(_.refs.charts).appendChild(script);
